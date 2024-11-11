@@ -1,3 +1,3 @@
 print("jornada de dados")
 
-print("teste")       
+print("teste" )       
